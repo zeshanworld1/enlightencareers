@@ -1,2 +1,2 @@
 # enlightencareers
-1st repository made my Zeeshan for practice
+1st repository made my Shani for practice
